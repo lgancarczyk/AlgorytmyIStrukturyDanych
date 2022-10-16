@@ -1,0 +1,15 @@
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\bin\Debug\net6.0\SitoEratostenesa.exe
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\bin\Debug\net6.0\SitoEratostenesa.deps.json
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\bin\Debug\net6.0\SitoEratostenesa.runtimeconfig.json
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\bin\Debug\net6.0\SitoEratostenesa.dll
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\bin\Debug\net6.0\SitoEratostenesa.pdb
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\SitoEratostenesa.csproj.AssemblyReference.cache
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\SitoEratostenesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\SitoEratostenesa.AssemblyInfoInputs.cache
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\SitoEratostenesa.AssemblyInfo.cs
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\SitoEratostenesa.csproj.CoreCompileInputs.cache
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\SitoEratostenesa.dll
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\refint\SitoEratostenesa.dll
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\SitoEratostenesa.pdb
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\SitoEratostenesa.genruntimeconfig.cache
+C:\Studia 5 sem\AlgorytmyIStrukturyDanych\AlgorytmyIStrukturyDanych\SitoEratostenesa\SitoEratostenesa\obj\Debug\net6.0\ref\SitoEratostenesa.dll
